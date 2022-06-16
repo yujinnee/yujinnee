@@ -4,7 +4,7 @@
 
 
 
-<h2 align='center'> Yujin Lee </h2>
+<h3 align='center'> Yujin Lee </h3>
 <h5 align='center'> iOS Developer  </h5>
 <h5 align='center'> Seoul, Korea 🇰🇷 </h5>
 
