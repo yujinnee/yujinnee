@@ -5,8 +5,8 @@
 
 
 <h3 align='center'> Yujin Lee </h3>
-<h3 align='center'> iOS Developer  </h3>
-<h3 align='center'> Seoul, Korea 🇰🇷 </h3>
+<h5 align='center'> iOS Developer  </h5>
+<h5 align='center'> Seoul, Korea 🇰🇷 </h5>
 
 ### Hi! I'm Yujin :) 👋 
 <center>🌱 I’m currently learning Swift & iOS</center>
