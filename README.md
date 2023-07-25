@@ -11,7 +11,7 @@
 <center>🌱 I’m currently learning Swift & iOS</center>
 <br> </br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yujinnee)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujinnee&layout=compact)](https://github.com/Taehyeon-Kim/github-readme-stats)
 
 
